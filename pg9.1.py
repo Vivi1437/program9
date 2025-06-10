@@ -1,0 +1,5 @@
+f=open("D:\Viswa PYTHON LAB\sample.txt",'r')
+print("file object is opened")
+print(f)
+data=f.read()
+print(data)
